@@ -61,6 +61,7 @@
         "core-js": "~3.7.0",
         "css-loader": "~5.0.0",
         "cssnano": "~4.1.10",
+        "dotenv": "^8.2.0",
         "eslint": "~7.13.0",
         "eslint-config-airbnb-base": "~14.2.0",
         "eslint-config-airbnb-typescript": "~12.0.0",
